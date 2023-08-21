@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+modelling/CIFAR100
+modelling/CUB
+modelling/data
+data
+dataset
+log
+.conda
